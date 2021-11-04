@@ -1,0 +1,22 @@
+.conta {
+    background-color: #f8f6f3;
+}
+.cont{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+
+.primera {
+    background-color:#dec769;
+    height: 400px
+}
+
+.segunda {
+    background-color: #857843;
+    height: 400px;
+    margin: 0 100px 0 100px;  
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    padding: 20px 40px;
+}

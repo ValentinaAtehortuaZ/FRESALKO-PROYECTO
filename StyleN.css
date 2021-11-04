@@ -1,0 +1,168 @@
+.noso {
+    background-color: #f8f6f3;
+}
+
+.container-info {
+    width: 100%;
+    background-color: var(--backgroundcolor);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container-info-img {
+    height: 300px;
+    
+    flex-direction: row;
+    align-items: center;
+    margin: 50px 50px 10px 50px;
+    display: flex;
+    background-color: #dec769;
+}
+
+.container-info-img2 {
+    height: 300px;
+    
+    flex-direction: row;
+    align-items: center;
+    margin: 50px 50px 10px 50px;
+    display: flex;
+    background-color: #dec769;
+}
+
+.container-info-img img {
+height: 100%;
+width: 900px;
+
+}
+
+.container-info-img2 img {
+    height: 100%;
+    width: 900px;
+    
+    }
+
+.Titulo-temporal {
+    margin: 50px 0 0 0;
+    height: 150px;
+
+}
+
+.container-text {
+    text-align: center;
+    background-color: rgb(196, 196, 196);
+    margin: 90px 0 0 0;
+}
+
+.linea {
+    width: 200px;
+    background-color:black;
+    height: 2px;
+
+}
+
+.container-text2 {
+    text-align: center;
+    background-color: white;
+    margin: 90px 0 0 0;
+    height: 288px;
+    
+}
+
+.primera {
+    background-color:#dec769;
+    height: 400px
+}
+
+.segunda {
+    background-color: #857843;
+    height: 400px;
+    margin: 0 100px 0 100px;  
+}
+
+ 
+.tercera {
+    background-color: black;
+    margin: 0 400px 0 400px; 
+    height: 400px;
+    text-align: center;
+}
+
+.email{
+    
+    font-size: 50px;
+    color: red;
+}
+
+.instagramm {
+    
+    font-size: 50px;
+    color:rgb(101, 101, 102);
+    transform: translateY(-2px);
+}
+
+.facebook {
+    
+    font-size: 50px;
+    color:rgb(101, 101, 102);
+    transform: translateY(-2px);
+    
+}
+
+.Efectivo {
+    color:rgb(17, 92, 15);  
+    margin-left: 80px;
+   font-size: 20px;
+    
+}
+
+.Bancolombia {
+    color:rgb(241, 224, 63) blue;  
+    margin-left: 80px;
+    font-size: 20px;
+   
+    
+}
+
+.seguir {
+    color: gray;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    background-color: var(--backgroundcolor);
+}
+
+.imgg {
+    grid-template-columns: auto auto;
+    display: grid;
+    margin: 100px;
+}
+
+.im1 {
+    background-color: #dec769;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(92, 99, 105, .2);
+    padding: 20px 40px;
+}
+
+.to {
+    margin: 50px;
+    margin-top: 20px;
+}
+.linea {
+    width: 200px;
+    background-color:black;
+    height: 2px;
+
+}
+
+.borde {
+    background-color: #f8f9fa;
+    margin: 0 100px 0 100px; 
+    height: 250px;
+
+}

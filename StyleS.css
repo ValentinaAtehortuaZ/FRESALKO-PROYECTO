@@ -1,0 +1,29 @@
+
+.copyright{
+    height: 20px;
+    width: 100%;
+    text-align: center;
+
+}
+
+.menu-footer1 {
+    margin-left: 60px;
+    
+}
+
+.instagramm {
+    
+    font-size: 50px;
+    color:rgb(101, 101, 102);
+    transform: translateY(-2px);
+    text-decoration: none;
+    
+}
+
+.facebook {
+    
+    font-size: 50px;
+    color:rgb(101, 101, 102);
+    transform: translateY(-2px);
+    
+}

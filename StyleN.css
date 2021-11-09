@@ -1,5 +1,5 @@
 .noso {
-    background-color: #f8f6f3;
+    background-color: #f3f3e7;
 }
 
 .container-info {
@@ -148,6 +148,58 @@ width: 900px;
     }
 }
 
+@media (min-width: 360px){
+    .imgg {
+        grid-template-columns: auto auto;
+        display: grid;
+        margin: 100px;
+        
+    }
+    
+    .im1 {
+        background-color: #dec769;
+        border-radius: 10px;
+        box-shadow: 0 10px 25px rgba(92, 99, 105, .2);
+        padding: 20px 40px;
+        
+    } 
+}
+
+@media (min-width: 780px){
+    .imgg {
+        grid-template-columns: auto auto;
+        display: grid;
+        margin: 100px;
+        
+    }
+    
+    .im1 {
+        background-color: #dec769;
+        border-radius: 10px;
+        box-shadow: 0 10px 25px rgba(92, 99, 105, .2);
+        padding: 20px 40px;
+        
+    } 
+}
+
+
+@media (min-width: 1024px){
+    .imgg {
+        grid-template-columns: auto auto;
+        display: grid;
+        margin: 100px;
+        
+    }
+    
+    .im1 {
+        background-color: #dec769;
+        border-radius: 10px;
+        box-shadow: 0 10px 25px rgba(92, 99, 105, .2);
+        padding: 20px 40px;
+        
+    } 
+}
+
 
 
 .email{
@@ -248,66 +300,3 @@ width: 900px;
 }
 
 
-.elementor-4268 .elementor-element.elementor-element-fa28548 > .elementor-container > .elementor-column > .elementor-widget-wrap {
-    align-content: center;
-    align-items: center;
-}
-
-.elementor-4268 .elementor-element.elementor-element-b9a68d1:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-4268 .elementor-element.elementor-element-b9a68d1 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
-    background-color: #e24e4e;
-}
-
-@media (max-width: 767px){
-.elementor-4268 .elementor-element.elementor-element-b9a68d1 > .elementor-element-populated {
-    padding: 10px 15px 10px 15px;
-}
-
-@media (max-width: 767px){}
-.elementor-4268 .elementor-element.elementor-element-b9a68d1 > .elementor-element-populated {
-    padding: 10px 15px 10px 15px;
-}
-
-@media (max-width: 767px){}
-.elementor-4268 .elementor-element.elementor-element-b9a68d1 > .elementor-element-populated, .elementor-4268 .elementor-element.elementor-element-b9a68d1 > .elementor-element-populated > .elementor-background-overlay, .elementor-4268 .elementor-element.elementor-element-b9a68d1 > .elementor-background-slideshow {
-    border-radius: 5px 5px 5px 5px;
-}
-
-@media (max-width: 1024px){
-.elementor-4268 .elementor-element.elementor-element-b9a68d1 > .elementor-element-populated {
-    margin: -35px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;
-
-    padding: 0
-}
-@media (max-width: 1024px){
-.elementor-4268 .elementor-element.elementor-element-b9a68d1 > .elementor-element-populated, .elementor-4268 .elementor-element.elementor-element-b9a68d1 > .elementor-element-populated > .elementor-background-overlay, .elementor-4268 .elementor-element.elementor-element-b9a68d1 > .elementor-background-slideshow {
-    border-radius: 5px 5px 5px 5px;
-
-}
-
-.elementor-4268 .elementor-element.elementor-element-b9a68d1 > .elementor-element-populated {
-    box-shadow: 0px 0px 50px -10px rgb(0 0 0 / 13%);
-    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
-    margin: -50px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;
-}
-.elementor-4268 .elementor-element.elementor-element-b9a68d1 > .elementor-element-populated, .elementor-4268 .elementor-element.elementor-element-b9a68d1 > .elementor-element-populated > .elementor-background-overlay, .elementor-4268 .elementor-element.elementor-element-b9a68d1 > .elementor-background-slideshow {
-    border-radius: 5px 5px 5px 5px 5px;
-}
-.elementor-column-gap-default>.elementor-column>.elementor-element-populated {
-    padding: 10px;
-}
-.elementor:not(.elementor-bc-flex-widget) .elementor-widget-wrap {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-}
-
-.elementor-widget-wrap {
-    position: relative;
-    width: 100%;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    -ms-flex-line-pack: start;
-    align-content: flex-start;
-}

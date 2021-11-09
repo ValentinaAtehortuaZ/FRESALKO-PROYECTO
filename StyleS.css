@@ -27,3 +27,44 @@
     transform: translateY(-2px);
     
 }
+
+.pizza{
+    text-align: center;
+}
+
+.todas-pizzas {
+    grid-template-columns: auto auto auto auto;
+    display: grid;
+    align-items: center;
+}
+
+.Italiana  {
+    margin-left: 60px;
+}
+
+.Pepperoni {
+    margin-left: 60px;
+}
+
+.Hawaiana {
+    margin-left: 60px
+}
+
+.Romana {
+    margin-left: 60px
+}
+
+.LASAÑAS {
+    grid-template-columns: auto auto auto ;
+    display: grid;
+    align-items: center;
+}
+
+.LASAÑA-CARNE {
+    margin-left: 130px;
+    
+    
+}
+
+
+

@@ -9,8 +9,11 @@
     background-image: url("Imagenes/turismo.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    
 }
-
+.conta {
+    background-color: #f3f3e7;
+}
 
 
 
@@ -228,7 +231,18 @@ margin-bottom: auto;
 
     .menu-footer1 {
         margin-left: 60px;
-        
+        margin-top: 15px;
+    }
+
+    a:hover {
+        color: #dbc36c;
+    }
+
+    .carru{
+        grid-template-columns: auto auto;
+        display: grid;
+        align-items: center;
+        margin-left: 29px;
     }
 
    

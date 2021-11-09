@@ -28,8 +28,25 @@
     
 }
 
+#COLOR{
+    color: black;
+    background-color:#dec769;
+    border-color:#dec769 ;
+
+}
+#COLOR:hover {
+    background-color: black;
+    color: white;
+}
+
+
+
 .pizza{
     text-align: center;
+    background-color: #dec769;
+    padding: 20px;
+    margin-right: 60px;
+    margin-left: 60px;
 }
 
 .todas-pizzas {

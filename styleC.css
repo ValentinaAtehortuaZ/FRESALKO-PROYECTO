@@ -73,7 +73,7 @@ body {
     
     justify-content: center;
     align-items: center;
-    height: 80vh;
+    height: 60vh;
     grid-template-columns: auto auto;
     display: grid;
 
@@ -347,6 +347,9 @@ body {
             text-align: center;
             font-size: larger;
         }
+}
+.map {
+  width: 100%;
 }
 
 @media (max-width: 767px){

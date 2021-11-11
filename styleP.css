@@ -267,8 +267,8 @@ margin-bottom: auto;
         
     }
 
-    .ico{
-    
+    .icon{
+        width: -webkit-fill-available;
     }
 
 

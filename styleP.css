@@ -272,4 +272,18 @@ margin-bottom: auto;
     }
 
 
+.lasa-pizza {
+    text-align: center;
+    background-color: #dec769;
+}
+
+    @media (min-width: 376px) { 
+        .horario{
+            text-align: center;
+            
+        }
+     }
+   
+
+
    

@@ -281,7 +281,7 @@ margin-bottom: auto;
 #horarios{
     
     align-items: center;
-     
+    
 }
 
 .gourmet{
@@ -324,7 +324,174 @@ margin-bottom: auto;
     text-align: center;
 }
 
+@media (min-width: 300px){
+    
+    #horario{
+    text-align: center;
+    align-items: center;
+    position:relative;  
+    padding: 0 20px 0 0;
+    margin-left: 20px;
+    }
 
+    .img-horario{
+       width: 110%; 
+    }
+
+    .gourmet{
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 4rem;
+         text-shadow: 1px 1px rgb(230, 229, 229);
+         text-shadow: 1px 2px rgb(230, 229, 229);
+         text-shadow: 1px 3px rgb(230, 229, 229);
+         text-shadow: 1px 4px rgb(230, 229, 229);
+         text-shadow: 1px 5px  rgb(230, 229, 229);
+         text-shadow: 1px 6px rgb(230, 229, 229);
+         text-shadow: 1px 7px rgb(230, 229, 229);
+         text-shadow: 1px 8px rgb(230, 229, 229);
+         text-shadow: 1px 9px rgb(230, 229, 229);
+         text-shadow: 1px 10px rgb(230, 229, 229);
+         text-shadow: 1px 11px rgb(230, 229, 229);
+    
+    }
+    
+    .gourmet1{
+        text-align: center;
+        font-family:cursive;
+        font-size: 5rem;
+         text-shadow: 1px 1px rgb(230, 229, 229);
+         text-shadow: 1px 2px rgb(230, 229, 229);
+         text-shadow: 1px 3px rgb(230, 229, 229);
+         text-shadow: 1px 4px rgb(230, 229, 229);
+         text-shadow: 1px 5px  rgb(230, 229, 229);
+         text-shadow: 1px 6px rgb(230, 229, 229);
+         text-shadow: 1px 7px rgb(230, 229, 229);
+         text-shadow: 1px 8px rgb(230, 229, 229);
+         text-shadow: 1px 9px rgb(230, 229, 229);
+         text-shadow: 1px 10px rgb(230, 229, 229);
+         text-shadow: 1px 11px rgb(230, 229, 229);
+         
+    }
+    .copy {
+        margin-top: 48px;
+    }
+}
+
+@media (min-width: 767px){
+    #horario{
+        text-align: center;
+        align-items: center;
+        position:relative; 
+        padding: 0 20px 0 0;
+    
+        }
+    
+    
+        .img-horario{
+            width: 90%;
+            margin-left: 40px;
+            padding: 0 10px 0 0;
+        }
+
+        .gourmet{
+            text-align: center;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: 4rem;
+             text-shadow: 1px 1px rgb(230, 229, 229);
+             text-shadow: 1px 2px rgb(230, 229, 229);
+             text-shadow: 1px 3px rgb(230, 229, 229);
+             text-shadow: 1px 4px rgb(230, 229, 229);
+             text-shadow: 1px 5px  rgb(230, 229, 229);
+             text-shadow: 1px 6px rgb(230, 229, 229);
+             text-shadow: 1px 7px rgb(230, 229, 229);
+             text-shadow: 1px 8px rgb(230, 229, 229);
+             text-shadow: 1px 9px rgb(230, 229, 229);
+             text-shadow: 1px 10px rgb(230, 229, 229);
+             text-shadow: 1px 11px rgb(230, 229, 229);
+        
+        }
+        
+        .gourmet1{
+            text-align: center;
+            font-family:cursive;
+            font-size: 5rem;
+             text-shadow: 1px 1px rgb(230, 229, 229);
+             text-shadow: 1px 2px rgb(230, 229, 229);
+             text-shadow: 1px 3px rgb(230, 229, 229);
+             text-shadow: 1px 4px rgb(230, 229, 229);
+             text-shadow: 1px 5px  rgb(230, 229, 229);
+             text-shadow: 1px 6px rgb(230, 229, 229);
+             text-shadow: 1px 7px rgb(230, 229, 229);
+             text-shadow: 1px 8px rgb(230, 229, 229);
+             text-shadow: 1px 9px rgb(230, 229, 229);
+             text-shadow: 1px 10px rgb(230, 229, 229);
+             text-shadow: 1px 11px rgb(230, 229, 229);
+             
+        }
+
+        .copy {
+            
+            margin-block: auto;
+               
+        } 
+}
+
+@media (min-width: 1024px){
+    #horario{
+        margin-top: 40px;
+        align-items: center;
+        position:relative; 
+        text-align: center;
+          
+        }
+    
+    
+        .img-horario{
+           width: 70%; 
+           
+        }
+
+        .gourmet{
+            text-align: center;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: 4rem;
+             text-shadow: 1px 1px rgb(230, 229, 229);
+             text-shadow: 1px 2px rgb(230, 229, 229);
+             text-shadow: 1px 3px rgb(230, 229, 229);
+             text-shadow: 1px 4px rgb(230, 229, 229);
+             text-shadow: 1px 5px  rgb(230, 229, 229);
+             text-shadow: 1px 6px rgb(230, 229, 229);
+             text-shadow: 1px 7px rgb(230, 229, 229);
+             text-shadow: 1px 8px rgb(230, 229, 229);
+             text-shadow: 1px 9px rgb(230, 229, 229);
+             text-shadow: 1px 10px rgb(230, 229, 229);
+             text-shadow: 1px 11px rgb(230, 229, 229);
+        
+        }
+        
+        .gourmet1{
+            text-align: center;
+            font-family:cursive;
+            font-size: 5rem;
+             text-shadow: 1px 1px rgb(230, 229, 229);
+             text-shadow: 1px 2px rgb(230, 229, 229);
+             text-shadow: 1px 3px rgb(230, 229, 229);
+             text-shadow: 1px 4px rgb(230, 229, 229);
+             text-shadow: 1px 5px  rgb(230, 229, 229);
+             text-shadow: 1px 6px rgb(230, 229, 229);
+             text-shadow: 1px 7px rgb(230, 229, 229);
+             text-shadow: 1px 8px rgb(230, 229, 229);
+             text-shadow: 1px 9px rgb(230, 229, 229);
+             text-shadow: 1px 10px rgb(230, 229, 229);
+             text-shadow: 1px 11px rgb(230, 229, 229);
+             
+        }
+
+       .copy{
+        margin-block: auto;
+       }
+}
 
 
    
